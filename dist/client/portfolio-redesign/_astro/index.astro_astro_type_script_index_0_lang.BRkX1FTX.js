@@ -1,0 +1,1 @@
+globalThis.process??={},globalThis.process.env??={};import{t as e}from"./rolldown-runtime.C_o-9qvY.js";var t=e((()=>{var e=document.getElementById(`body`),t=document.getElementById(`border-toggle`);e&&t&&t.addEventListener(`change`,t=>{t.target.checked?e.classList.add(`border`):e.classList.remove(`border`)})})),n=e((()=>{t()}));export default n();
