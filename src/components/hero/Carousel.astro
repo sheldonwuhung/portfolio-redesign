@@ -1,0 +1,99 @@
+---
+import Logo from '../logo/Logo.astro';
+---
+
+<style>
+
+    @media screen and (min-width: 2156){
+        .element-top {
+            font-size: 3em;
+            text-shadow: 2px 2.9px 0px #939CFB;
+        }
+    }
+
+    @media screen and (min-width: 1920px) and (max-width: 2155px) {
+        .element-top {
+            font-size: 2.65em;
+            text-shadow: 1.5px 2.1px 0px #939CFB;
+        }
+    }
+
+    @media screen and (min-width: 1600px) and (max-width: 1919px) {
+        .element-top {
+            font-size: 2.25em;
+            text-shadow: 1.1px 1.7px 0px #939CFB;
+        }
+    }
+
+    @media screen and (min-width: 1280px) and (max-width: 1599px) {
+        .element-top {
+            font-size: xx-large;
+            text-shadow: .85px 1.4px 0px #939CFB;
+        }
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 1279px) {
+        .element-top {
+            font-size: x-large;
+            text-shadow: .5px 1px 0px #939CFB;
+        }
+    }
+
+    @media screen and (min-width: 530px) and (max-width: 767px) {
+        .element-top {
+            font-size: large;
+            text-shadow: .35px .75px 0px #939CFB;
+        }
+    }
+
+    @media screen and (min-width: 480px) and (max-width: 529px) {
+        .element-top {
+            font-size: medium;
+            text-shadow: .25px .65px 0px #939CFB;
+        }
+    }
+
+    @media screen and (max-width: 479px) {
+        .element-top {
+            font-size: small;
+            text-shadow: .1px .5px 0px #939CFB;
+        }
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+
+    .element-bottom, .element-top {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .element-bottom {
+        width: 100%;
+        max-height: 65vh;
+        object-fit: cover;
+    }
+
+    .element-top {
+        /* align-self: center;
+        justify-self: center;  */
+        z-index: 2; 
+        font-family: 'Greater Theory';
+        color: #242582;
+    }
+
+</style>
+
+<div class="grid-container">
+    <video class="element-bottom aspect-9/16 sm:aspect-video" autoplay muted loop playsinline width="100%">
+        <source src="../../../public/projects/hero/1.mp4" type="video/mp4">
+    </video>
+    <span class="p-[1em] element-top">MULTIMEDIA DIGITAL DESIGNER/DEVELOPER VERSED IN A MULTITUDE OF CREATIVE FIELDS</span>
+</div>
+
+<script>
+
+</script>

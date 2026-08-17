@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Apple II Screen';
+    src: url(../fonts/AppleIiScreenTypeface-2aP3.ttf)
+}
+
+@font-face {
+    font-family: 'Greater Theory';
+    src: url(../fonts/GreaterTheory.otf)
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    /* background-color: #2B3172; */
+    width: 100%;
+}
+
+.border * {
+    border: solid rgb(0, 0, 0) 1px;
+}
+
+.grid-container-am {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.element-bottom-am, .element-top-am {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.element-top-am {
+    z-index: 2; 
+}

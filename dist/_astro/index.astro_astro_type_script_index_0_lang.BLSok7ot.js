@@ -1,0 +1,1 @@
+import"https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4";var e=((e,t)=>()=>(t||(e((t={exports:{}}).exports,t),e=null),t.exports))((()=>{}));export default e();

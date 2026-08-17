@@ -1,0 +1,599 @@
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Generated 3ms","label":"types","level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Re-optimizing dependencies because vite config has changed","label":"vite","level":"info"}
+{"message":" astro  v7.0.9 ready in 4183 ms\n┃ Local    http://127.0.0.1:4321/","label":"SKIP_FORMAT","level":"info"}
+{"message":"watching for file changes...","label":null,"level":"info"}
+{"message":"[200] / 45ms","label":null,"level":"info"}
+{"message":"[404] /style.css 71ms","label":null,"level":"info"}
+{"message":"[404] /styles/global.css 67ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 6ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /styles/global.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 2ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 5ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /styles/global.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /styles/global.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 9ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 9ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 2ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 8ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[200] / 2ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[200] / 2ms","label":null,"level":"info"}
+{"message":"[404] /style.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 30ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[200] / 5ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 21ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[200] / 5ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[200] / 6ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/components/Nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 21ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 10ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 13ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"Configuration file updated. Restarting...","label":null,"level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"server restarted.","label":"vite","level":"info"}
+{"message":"[200] / 34ms","label":null,"level":"info"}
+{"message":"[404] /style.css 25ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 2ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/components/Nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 12ms","label":null,"level":"info"}
+{"message":"[404] /style.css 2ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 5ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/components/Nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 20ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 10ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[200] / 6ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"Configuration file updated. Restarting...","label":null,"level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Re-optimizing dependencies because lockfile has changed","label":"vite","level":"info"}
+{"message":"server restarted.","label":"vite","level":"info"}
+{"message":"[200] / 36ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 69ms","label":null,"level":"info"}
+{"message":"[404] /style.css 10ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 5ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"Configuration file updated. Restarting...","label":null,"level":"info"}
+[1m[31m[astro][39m[22m Unable to load your Astro config
+
+{"message":"tailwind is not defined\n  Stack trace:\n    at eval at runInlinedModule (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/module-runner.js:1006:9\n    [...] See full stack trace in the browser, or rerun with --verbose.\n","label":"config","level":"error"}
+{"message":"Continuing with previous valid configuration\n","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 71ms","label":null,"level":"info"}
+{"message":"[200] / 71ms","label":null,"level":"info"}
+{"message":"[404] /style.css 6ms","label":null,"level":"info"}
+{"message":"[404] /style.css 2ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"Configuration file updated. Restarting...","label":null,"level":"info"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Re-optimizing dependencies because vite config has changed","label":"vite","level":"info"}
+{"message":"server restarted.","label":"vite","level":"info"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\C:\\Users\\sheld\\OneDrive\\Documents\\School\\Summer 2026\\Portfolio\\src\\pages\\index.astro:2:8\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"program reload","label":"vite","level":"info"}
+{"message":"An error happened during full reload\nFailed to load url astro:server-app.js (resolved id: astro:server-app.js). Does the file exist?\nError: Failed to load url astro:server-app.js (resolved id: astro:server-app.js). Does the file exist?\n    at loadAndTransform (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:20087:31)","label":"vite","level":"error"}
+{"message":"An error happened during full reload\nFailed to load url ../styles/global.css (resolved id: ../styles/global.css) in C:/Users/sheld/OneDrive/Documents/School/Summer 2026/Portfolio/src/components/layouts/Layout.astro. Does the file exist?\nError: Failed to load url ../styles/global.css (resolved id: ../styles/global.css) in C:/Users/sheld/OneDrive/Documents/School/Summer 2026/Portfolio/src/components/layouts/Layout.astro. Does the file exist?\n    at loadAndTransform (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:20087:31)\n    at async fetchModule (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:33534:15)\n    at async handleInvoke (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:26229:21)\n    at async EventEmitter.listenerForInvokeHandler (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:26284:13)","label":"vite","level":"error"}
+{"message":"program reload","label":"vite","level":"info"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at loadAndTransform (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:20087:31)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"An error happened during full reload\nFailed to load url ../styles/global.css (resolved id: ../styles/global.css) in C:/Users/sheld/OneDrive/Documents/School/Summer 2026/Portfolio/src/components/layouts/Layout.astro. Does the file exist?\nError: Failed to load url ../styles/global.css (resolved id: ../styles/global.css) in C:/Users/sheld/OneDrive/Documents/School/Summer 2026/Portfolio/src/components/layouts/Layout.astro. Does the file exist?\n    at loadAndTransform (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:20087:31)\n    at async fetchModule (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:33534:15)\n    at async handleInvoke (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:26229:21)\n    at async EventEmitter.listenerForInvokeHandler (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:26284:13)","label":"vite","level":"error"}
+{"message":"Could not import `../styles/global.css`.\n  Hint:\n    This is often caused by a typo in the import path. Please make sure the file exists.\n  Error reference:\n    https://docs.astro.build/en/reference/errors/failed-to-load-module-ssr/\n  Stack trace:\n    at loadAndTransform (file:///C:/Users/sheld/OneDrive/Documents/School/Summer%202026/Portfolio/node_modules/vite/dist/node/chunks/node.js:20087:31)\n    [...] See full stack trace in the browser, or rerun with --verbose.","label":null,"level":"error"}
+{"message":"[200] / 37ms","label":null,"level":"info"}
+{"message":"[404] /style.css 21ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 6ms","label":null,"level":"info"}
+{"message":"[200] / 6ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"program reload","label":"vite","level":"info"}
+{"message":"program reload","label":"vite","level":"info"}
+{"message":"[200] / 11ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"Configuration file updated. Restarting...","label":null,"level":"info"}
+{"message":"program reload","label":"vite","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"[200] / 47ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"connected.","label":"vite","level":"info"}
+{"message":"Re-optimizing dependencies because vite config has changed","label":"vite","level":"info"}
+{"message":"server restarted.","label":"vite","level":"info"}
+{"message":"[200] / 30ms","label":null,"level":"info"}
+{"message":"[404] /style.css 122ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 114ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 21ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 20ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 24ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 20ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 25ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 17ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 2ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 17ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 5ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 26ms","label":null,"level":"info"}
+{"message":"[404] /style.css 2ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 19ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 20ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[404] /style.css 71ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 4ms","label":null,"level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 19ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 31ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 6ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 6ms","label":null,"level":"info"}
+{"message":"[404] /style.css 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 19ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 17ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 20ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 5ms","label":null,"level":"info"}
+{"message":"[404] /style.css 2ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 13ms","label":null,"level":"info"}
+{"message":"[404] /style.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 13ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 2ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 21ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 22ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 24ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 15ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 17ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 13ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 19ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 20ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"src/pages/index.astro","label":"watch","level":"info"}
+{"message":"[200] / 17ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 2ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 21ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 13ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 4ms","label":null,"level":"info"}
+{"message":"[404] /style.css 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 19ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 0ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css, /src/components/nav/Nav.astro?astro&type=style&index=0&lang.css","label":"watch","level":"info"}
+{"message":"[200] / 16ms","label":null,"level":"info"}
+{"message":"[404] /style.css 6ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 3ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[200] / 3ms","label":null,"level":"info"}
+{"message":"[404] /style.css 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"[200] / 18ms","label":null,"level":"info"}
+{"message":"[404] /style.css 6ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"[404] /scripts.js 1ms","label":null,"level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
+{"message":"/src/styles/global.css","label":"watch","level":"info"}
