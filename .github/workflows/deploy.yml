@@ -20,6 +20,18 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v7
+
+      - name: Setup Node (for pnpm approve)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Approve pnpm build scripts
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+          pnpm approve-builds --yes
+
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         with:
